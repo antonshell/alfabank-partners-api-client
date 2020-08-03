@@ -1,6 +1,14 @@
-# Alfabank partners api client
+# Alfabank partners API client
 
-# Demo / Usage
+There is a simpliest alfabank partners api client. Allows to create leads, receive leads statuses, check company by INN, receive cities and regions dictionaries.
+
+Partner area: [https://partner.alfabank.ru/](https://partner.alfabank.ru/)
+
+API manual: [https://partner.alfabank.ru/files/download?code=api-manual](https://partner.alfabank.ru/files/download?code=api-manual)
+
+API reference: [https://partner.alfabank.ru/public-api/documentation#/](https://partner.alfabank.ru/public-api/documentation#/)
+
+# Demo / Usage examples
 
 1 . Clone repository
 
